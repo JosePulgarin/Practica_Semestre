@@ -1,0 +1,15 @@
+C:\Users\Jose Manuel Pulgarin\Documents\Practica_semestre\bin\Debug\net8.0\Practica_Semestre.exe
+C:\Users\Jose Manuel Pulgarin\Documents\Practica_semestre\bin\Debug\net8.0\Practica_Semestre.deps.json
+C:\Users\Jose Manuel Pulgarin\Documents\Practica_semestre\bin\Debug\net8.0\Practica_Semestre.runtimeconfig.json
+C:\Users\Jose Manuel Pulgarin\Documents\Practica_semestre\bin\Debug\net8.0\Practica_Semestre.dll
+C:\Users\Jose Manuel Pulgarin\Documents\Practica_semestre\bin\Debug\net8.0\Practica_Semestre.pdb
+C:\Users\Jose Manuel Pulgarin\Documents\Practica_semestre\obj\Debug\net8.0\Practica_Semestre.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jose Manuel Pulgarin\Documents\Practica_semestre\obj\Debug\net8.0\Practica_Semestre.AssemblyInfoInputs.cache
+C:\Users\Jose Manuel Pulgarin\Documents\Practica_semestre\obj\Debug\net8.0\Practica_Semestre.AssemblyInfo.cs
+C:\Users\Jose Manuel Pulgarin\Documents\Practica_semestre\obj\Debug\net8.0\Practica_Semestre.csproj.CoreCompileInputs.cache
+C:\Users\Jose Manuel Pulgarin\Documents\Practica_semestre\obj\Debug\net8.0\Practica_Semestre.sourcelink.json
+C:\Users\Jose Manuel Pulgarin\Documents\Practica_semestre\obj\Debug\net8.0\Practica_Semestre.dll
+C:\Users\Jose Manuel Pulgarin\Documents\Practica_semestre\obj\Debug\net8.0\refint\Practica_Semestre.dll
+C:\Users\Jose Manuel Pulgarin\Documents\Practica_semestre\obj\Debug\net8.0\Practica_Semestre.pdb
+C:\Users\Jose Manuel Pulgarin\Documents\Practica_semestre\obj\Debug\net8.0\Practica_Semestre.genruntimeconfig.cache
+C:\Users\Jose Manuel Pulgarin\Documents\Practica_semestre\obj\Debug\net8.0\ref\Practica_Semestre.dll
